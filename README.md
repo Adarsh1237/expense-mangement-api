@@ -178,7 +178,6 @@ Handled centrally with appropriate HTTP status codes:
 
 **Relationship:** One User → Many Expenses (`ON DELETE CASCADE`)
 
-GitHub URL = 
 
 ## Testing Quickly with curl
 
